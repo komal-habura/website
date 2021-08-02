@@ -1,0 +1,38 @@
+body{
+    background: url('../css/v.png')no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.login-box{
+    max-width: 800px;
+    margin-left: 500px;
+    float: none;
+    margin: 150px auto;
+}
+.login-box{
+    background-color: #fff;
+    padding: 30px;
+    align-items: center;
+}
+.register-box{
+    max-width: 800px;
+    margin-left: 500px;
+    float: none;
+    margin: 150px auto;
+    background-color: #fff;
+    padding: 30px;
+    align-items: center;
+
+}
+
+.info-box{
+    max-width: 800px;
+    margin-left: 500px;
+    float: none;
+    margin: 150px auto;
+    background-color: #fff;
+    padding: 30px;
+    align-items: center;
+
+}
