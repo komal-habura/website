@@ -1,0 +1,10 @@
+{
+	"Global": {
+		"NewConfirmed":135514,
+		"TotalConfirmed":6149975,
+		"NewDeaths": 4355,
+		"TotalDeaths": 376268,
+		"NewRecovered":71158,
+		"TotalRecored": 2564042
+	}
+}
